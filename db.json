@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "email": "hello@salom.com",
+      "firstName": "Abdulloh",
+      "lastName": "Abdullayev",
+      "phoneNumber": "777-111-0000",
+      "id": "4"
+    }
+  ]
+}
